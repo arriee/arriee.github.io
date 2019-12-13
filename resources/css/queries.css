@@ -19,6 +19,7 @@
     .city-feature { font-size: 80%; }
     
     header { background-attachment: initial; }
+    .section-testimonials { background-attachment: initial; }
     
     .plan-box {
         width: 100%;
@@ -43,6 +44,8 @@
     section { padding: 30px 0; }
     
     header { background-attachment: initial; }
+    .section-testimonials { background-attachment: initial; }
+    
     .row,
     .hero-text-box { padding: 0 4%; }
     .col { 
@@ -126,6 +129,7 @@
     blockquote { margin-top: 40px; }
     
     header { background-attachment: initial; }
+    .section-testimonials { background-attachment: initial; }
     
     .btn:link, 
     .btn:visited {
